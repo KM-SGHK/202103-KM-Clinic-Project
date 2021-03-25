@@ -1,0 +1,19 @@
+{
+  "type": "mysql",
+  "host": "sql6.freemysqlhosting.net",
+  "port": 3306,
+  "username": "sql6400610",
+  "password": "KKhmzSlIlM",
+  "database": "sql6400610",
+  "logging": false,
+  "synchronize": false,
+  "entities": [
+    "entity/*.ts"
+  ],
+  "cli": {
+    "entitiesDir": "server/entity"
+  },
+  "extra": {
+    "connectionLimit": 2
+  }
+}
