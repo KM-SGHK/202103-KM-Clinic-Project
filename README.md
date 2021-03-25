@@ -2,10 +2,10 @@
 i.	Please refer to this diagram, https://drive.google.com/file/d/1rB6gyoUOF2NG8XmTIbw4Li3Napp7zQ5Z/view?usp=sharing 
 
 2. Steps for running the app
-i.	App
-    a.	yarn install
-    b.	cd reactNative/AwesomeProject
-    c.	yarn start
+i.	App\
+    a.	yarn install\
+    b.	cd reactNative/AwesomeProject\
+    c.	yarn start\
 ii.	Backend
     a.	yarn install
     b.	cd server
