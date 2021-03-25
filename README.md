@@ -5,7 +5,7 @@ i.	Please refer to this diagram, https://drive.google.com/file/d/1rB6gyoUOF2NG8X
 i.	App\
     a.	yarn install\
     b.	cd reactNative/AwesomeProject\
-    c.	yarn start\
+    c.	yarn start <br />
 ii.	Backend\
     a.	yarn install\
     b.	cd server\
