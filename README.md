@@ -5,11 +5,11 @@ i.	Please refer to this diagram, https://drive.google.com/file/d/1rB6gyoUOF2NG8X
 i.	App\
     a.	yarn install\
     b.	cd reactNative/AwesomeProject\
-    c.	yarn start\
+    c.	yarn start\n
 ii.	Backend\
     a.	yarn install\
     b.	cd server\
-    c.	yarn ts-node main.ts\
+    c.	yarn ts-node main.ts\n
 iii.	Login Account:\
     a.	“User Email”: Kwong@gmail.com\
     b.	“Password”: 1234
