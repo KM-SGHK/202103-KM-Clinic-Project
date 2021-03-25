@@ -1,5 +1,7 @@
 1. Architectural Design of the Project
-i.	Please refer to this diagram, https://drive.google.com/file/d/1rB6gyoUOF2NG8XmTIbw4Li3Napp7zQ5Z/view?usp=sharing 
+i.	Please refer to this diagram,
+![202103-KM-Project Architecture](https://user-images.githubusercontent.com/81289807/112429430-9c6dd380-8d77-11eb-81af-83936c0f37e7.png)
+
 
 2. Steps for running the app\
 i.	App\
